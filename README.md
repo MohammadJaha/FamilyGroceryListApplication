@@ -37,9 +37,9 @@ This Application Provide Simple Connection to **Firebase**
 **This Application Contains 4 View Controllers:** 
 
 **1. SignIn View Controller:**
-*       Asking The User to Enter **Email** And **PassWord**
-*       SignIn Using Google
-*       SignIn Using Facebook
+*     •	Asking The User to Enter **Email** And **PassWord**
+*     •	SignIn Using Google
+*     •	SignIn Using Facebook
       
 <img src="https://user-images.githubusercontent.com/90371913/151787093-6c73cfa7-60d1-4bcc-8631-113774da4f2b.png" width="320" height="660">
 
